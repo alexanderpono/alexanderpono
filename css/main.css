@@ -51,5 +51,14 @@ code {
     }
 }
 
+.tbl {
+    text-align: left;
+}
+
+.tbl td {
+    vertical-align: top;
+    padding: 0px 10px 10px 0px;
+}
+
 
 /*# sourceMappingURL=main.css.map*/
